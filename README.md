@@ -1,4 +1,4 @@
-# MA5701 Optimización no lineal: Tarea 3¶
+# MA5701 Optimización no lineal: Tarea 3
 
 **Fecha de entrega:** 4 de Julio a las 23:59 hrs.
 
