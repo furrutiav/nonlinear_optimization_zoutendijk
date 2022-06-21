@@ -14,11 +14,12 @@
 
 (2) Resolver el problema lineal
 
-$$ (D_k) \quad \begin{cases} \min & \nabla f (x_k)^T d\\
+$$(D_k) \quad \begin{cases} \min & \nabla f (x_k)^T d\\
 s.a. &A_1d \leq 0 \\
 &Ed = 0\\
 &−1 \leq d_j \leq 1, \quad j = 1, . . . , n
-\end{cases} $$
+\end{cases}$$
+
 y sea $d_k$ solución de $(D_k)$.
 
 Si $|| \nabla f (x_k)^T d_k || < \epsilon$, entonces parar.
