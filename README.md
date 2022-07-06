@@ -42,6 +42,6 @@ y se considera $\bar{\lambda_k} = +\infty$ cuando $(A_2 d_k)_i \leq 0 \forall i$
 Sea $\lambda_k$ la solución del subproblema $(L)$. Hacer:
 
 $$x_k+1 = x_k + \lambda_k d_k,$$
-$$k ← k + 1,$$
+$$k \leftarrow k + 1,$$
 $$\text{e ir a $(1)$.}$$
 
